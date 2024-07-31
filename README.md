@@ -1,6 +1,4 @@
 
-Here's the text for the README file for the main folder of your portfolio:
-
 Portfolio Overview
 Welcome to my portfolio, which showcases various projects and datasets highlighting my skills in data analysis, visualization, and management. This collection includes comprehensive analyses, specific assignments, and a diverse range of data sources, demonstrating my proficiency in handling and interpreting data across different domains.
 
