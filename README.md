@@ -9,6 +9,7 @@ This section contains raw and processed data used in the various projects and an
 Customer and Employee Data: Includes datasets on customer demographics, employee information, and territories managed by the company.
 Orders and Products: Contains information on product details, order summaries, and supplier data.
 Geographic and Regional Data: Features data related to geographic regions and territories.
+
 2. Project Files
 This section includes Power BI files (.pbix) representing various analytical projects and assignments:
 
